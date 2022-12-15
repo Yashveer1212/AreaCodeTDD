@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AreaCodeTDD.iml" filepath="$PROJECT_DIR$/AreaCodeTDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudenTDD.iml" filepath="$PROJECT_DIR$/StudenTDD.iml" />
     </modules>
   </component>
 </project>

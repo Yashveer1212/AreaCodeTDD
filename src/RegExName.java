@@ -6,7 +6,7 @@ public class RegExName
     private String firstName;
     private String lastName;
     private int age;
-    private boolean active;
+    private boolean isActive;
     private int iD;
 
 
@@ -15,7 +15,7 @@ public class RegExName
         firstName = "";
         lastName = "";
         age = 0;
-        active = false;
+        isActive = false;
         iD = 00000;
     }
 
@@ -43,7 +43,7 @@ public class RegExName
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", age=" + age +
-                ", active=" + active +
+                ", active=" + isActive +
                 ", iD=" + iD +
                 '}';
     }
